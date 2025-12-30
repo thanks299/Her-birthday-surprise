@@ -1,9 +1,4 @@
 services:
   - type: static
     name: her-birthday-surprise
-    buildCommand: echo "Static site - no build needed"
     staticPublishPath: ./her-birthday-main
-    routes:
-      - path: /
-        destination: /index.html
-    envVars: []
