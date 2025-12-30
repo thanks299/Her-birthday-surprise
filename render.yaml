@@ -1,4 +1,0 @@
-services:
-  - type: static
-    name: her-birthday-surprise
-    staticPublishPath: ./her-birthday-main
